@@ -17,8 +17,8 @@ RAM is **volatile** – its contents vanish once the computer shuts down. Captur
 - If not run with elevated privileges, memory capture may fail or be incomplete.  
 
 📌 **Best Practice:** Use a **forensic workstation** or a trusted external device to avoid contaminating the evidence system.
-![alt text](image-1.png)
 
+<img src="https://github.com/user-attachments/assets/739f9871-3976-41c3-be50-b8a8da805b63" alt="FTK Imager Memory Capture" width="600">
 
 
 ---
@@ -41,6 +41,7 @@ RAM is **volatile** – its contents vanish once the computer shuts down. Captur
 
 📌 **Tip:** Avoid saving directly on the suspect system to prevent evidence contamination.
 
+
 ---
 
 ### Step 4: Start Capture
@@ -49,8 +50,8 @@ RAM is **volatile** – its contents vanish once the computer shuts down. Captur
 - Progress bar displays percentage completion.  
 
 ⚠️ **Note:** The system may slow down during capture. Avoid running other applications.  
+<img src="pic/1c.png" alt="FTK Imager Memory Capture" width="600">
 
-![alt text](1c.png)
 ---
 
 ### Step 5: Wait for Completion
@@ -73,7 +74,8 @@ Disk imaging preserves a **bit-for-bit copy** of storage media. Unlike regular f
 - This launches the **Disk Imaging Wizard**.  
 
 📌 **Reason:** Ensures acquisition of all sectors including hidden/deleted data.
-![alt text](image.png)
+
+<img src="pic/ftk6.png" alt="FTK Imager Memory Capture" width="600">
 
 ---
 
@@ -86,7 +88,8 @@ Disk imaging preserves a **bit-for-bit copy** of storage media. Unlike regular f
 | **Folder Contents**| Captures only a specific folder |
 
 ⚠️ **Best Practice:** Prefer **Physical Drive** to ensure a complete forensic image.
-![alt text](1d.png)
+
+<img src="pic/1d.png" alt="Disk Imaging Animation" width="600">
 
 ---
 
@@ -112,7 +115,7 @@ Disk imaging preserves a **bit-for-bit copy** of storage media. Unlike regular f
 - **Image Fragment Size:** Leave `0` for a single file, or set (e.g., 650MB) for splitting across media.  
 
 ⚠️ **Tip:** Keep filenames structured, e.g., `Case123_Disk1_E01`.
-![alt text](1f.png)
+<img src="pic/1f.png" alt="Disk Imaging Animation" width="600">
 
 ---
 
