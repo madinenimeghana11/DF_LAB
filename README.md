@@ -10,4 +10,4 @@ This repository contains the lab exercises for the **Digital Forensics Laborator
 <a href="./DF_LAB/blob/main/LAB-exp/Exp.2-TESTdisk.md" target="_blank">Ex.No.2 – TestDisk</a>  
 <a href="./DF_LAB/blob/main/LAB-exp/EX.no3-wire.md" target="_blank">Ex.No.3 – Wireshark</a>  
 <a href="./DF_LAB/blob/main/LAB-exp/ex.no-4-mail.md" target="_blank">Ex.No.4 – Mail Header Analysis (MHA)</a>  
-<a href="./Digital-Forensic-Tools_overview/blob/main/experiments/Ex.no.5-Autopsy.md" target="_blank">Ex.No.5 – Autopsy</a> 
+<a href="./DF_LAB/blob/main/LAB-exp/Ex.no.5-Autopsy.md" target="_blank">Ex.No.5 – Autopsy</a> 
